@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.rdf4j:rdf4j-rio-turtle:2.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.rdf4j/rdf4j-rio-turtle/2.3.2/c276667ef18073f8366c5b6e7f27a79696c8261/rdf4j-rio-turtle-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.rdf4j/rdf4j-rio-turtle/2.3.2/9fe1abe87c174efaa405bdd4f0cdc2f6cc584add/rdf4j-rio-turtle-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

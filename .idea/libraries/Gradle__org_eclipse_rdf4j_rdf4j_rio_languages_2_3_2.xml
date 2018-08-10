@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.rdf4j:rdf4j-rio-languages:2.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.rdf4j/rdf4j-rio-languages/2.3.2/da0f1082585d6dd24e8cdec53721a3e5f4ed6b64/rdf4j-rio-languages-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.rdf4j/rdf4j-rio-languages/2.3.2/d7b54bac4f48e03d740be6f2295d0627400ed82/rdf4j-rio-languages-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

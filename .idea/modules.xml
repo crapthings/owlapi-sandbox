@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/owlapi-sandbox.iml" filepath="$PROJECT_DIR$/owlapi-sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/owlapi-sandbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/owlapi-sandbox_main.iml" group="owlapi-sandbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/owlapi-sandbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/owlapi-sandbox_test.iml" group="owlapi-sandbox" />
+    </modules>
+  </component>
+</project>

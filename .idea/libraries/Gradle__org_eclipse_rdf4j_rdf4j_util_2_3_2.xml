@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.rdf4j:rdf4j-util:2.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.rdf4j/rdf4j-util/2.3.2/12d3d004644fc1aae77228e21f012c1e83501886/rdf4j-util-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.rdf4j/rdf4j-util/2.3.2/b067d23eaca619fe9368957cc46e7204f3844759/rdf4j-util-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
